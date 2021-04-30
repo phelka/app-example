@@ -1,13 +1,11 @@
-package pl.vm.app.model;
+package pl.vm.app.model
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
+import lombok.AllArgsConstructor
+import lombok.Data
 
 @Data
 @AllArgsConstructor
-public class Playing {
-
-    private String game;
-    private String player;
-
+class Playing {
+    private val game: String? = null
+    private val player: String? = null
 }

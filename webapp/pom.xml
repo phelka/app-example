@@ -12,7 +12,7 @@
 	<artifactId>webapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name>VM.PL app example - web infrastructure (Spring Boot)</name>
+	<name>VM.PL app example - webapp - web infrastructure (Spring Boot)</name>
 	<description>Example project from daily live</description>
 
 	<properties>
